@@ -1,1 +1,1 @@
-thisproject is about i/o redirections
+shell i/o redirections
